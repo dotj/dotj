@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dotj
+👋 Hi, I’m @dotj
 
 <!---
 - 👀 I’m interested in ...
