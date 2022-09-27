@@ -1,5 +1,7 @@
 👋 Hi, I’m @dotj
 
+banana cat from @charlubby
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
